@@ -74,9 +74,3 @@ Rentify/
   client/      # React frontend
   server/      # Express backend
 ```
-
-## License
-
-This project is for educational purposes.
-
----
